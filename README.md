@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm a Flutter developer with 3 years of experience in developing and maintaining cross-platform applications, Android, iOS, and web apps. Proficient in architectural patterns, unit and acceptance testing, Firebase, Appwrite, app publishing, and CI/CD with Codemagic.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=htetlynnhtun&hide=stars&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=htetlynnhtun&hide=stars&show_icons=true&count_private=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htetlynnhtun&layout=compact&theme=transparent"/>
 </div>
